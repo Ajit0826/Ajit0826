@@ -7,9 +7,9 @@
 │    ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██            │
 │                                                                               │
 └───────────────────────────────────────────────────────────────────────────────┘
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0FF7E6&center=true&vCenter=true&width=435&lines=Hi+I'm+Ajit+Kumar;AI+%7C+CV+%7C+DL+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
-</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0FF7E6&center=true&vCenter=true&width=435&lines=Hi+I'm+Ajit;AI+%7C+ML+%7C+DL+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
+</h2>
 
 # 👋 Hello there! I'm Ajit Kumar
 
